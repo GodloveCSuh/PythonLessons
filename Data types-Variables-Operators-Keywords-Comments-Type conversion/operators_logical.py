@@ -4,10 +4,10 @@
 a = True
 b = False
 
-# Print a and b is False
+# Print a and b is False 
 print(a and b)
 
-# Print a or b is True
+# Print a or b is True because true overpowers false in "or" situations
 print(a or b)
 
 # Print not a is False
